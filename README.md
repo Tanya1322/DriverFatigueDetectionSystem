@@ -5,4 +5,4 @@ A system that alerts a driver if he's in a sleepy state to avoid any road accide
 Download the shape_predictor_68_face_landmarks file from https://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download
 and keep it in the same directory as main.py
 
-Google Colab Link : t.ly/E5Xf5
+Google Colab Link : https://colab.research.google.com/drive/1wKKXsYG6ausMrY869w2nTVOIZ16NVmAL#scrollTo=KCHTHwlwj-Xj
